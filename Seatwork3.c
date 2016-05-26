@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 	
 	age=2016-year;
 	
-	printf("You are %d years old.", age);
+	printf("You are %d years old.\n", age);
 	
 	return 0;
 }
