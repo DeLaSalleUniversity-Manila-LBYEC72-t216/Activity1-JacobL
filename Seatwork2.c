@@ -14,8 +14,7 @@ int main(int argc, char *argv[])
 	printf("\n");
 	
 	area=base*height;
-	printf("The area of the triangle is %d", area);
-	printf("\n");
+	printf("The area of the triangle is %d\n", area);
 	
 	return 0;
 }
