@@ -3,9 +3,6 @@
 
 int main(int argc, char *argv[]) 
 {
-	printf("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n\n");
-	printf("\tLanz Harvey M. Jacob\n");
-	printf("\t\tBS ECE\n\n");
-	printf("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n");
+	printf("Hello, LBYEC72!\n");
 	return 0;
 }
