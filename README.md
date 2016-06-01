@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 	scanf("%d", &height);
 	printf("\n");
 	
-	area=base*height;
+	area=(base*height)/2;
 	printf("The area of the triangle is %d\n", area);
 	
 	return 0;
